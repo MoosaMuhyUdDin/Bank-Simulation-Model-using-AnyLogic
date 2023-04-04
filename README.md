@@ -1,5 +1,4 @@
 # Bank-Simulation-Model-using-AnyLogic
-An interactive AnyLogic model simulating a bank with an information section, six counters, and three ATMs, each with its own waiting area. The model includes walls and charts for queue visualization and time measurement. It can be used for optimizing staffing and scheduling, improving customer satisfaction, and reducing waiting times
 The Bank Simulation Model is an interactive AnyLogic model that simulates the customer flow and waiting times in a bank with an information section, six counters, and three ATMs, each with its own waiting area. The model includes walls and charts such as bar graphs for queue visualization and histograms for time measurement.
 
 One of the unique features of this model is its 3D view, which allows users to explore the model from any angle, providing a more immersive and realistic experience. The model can be used to optimize staffing and scheduling, improve customer satisfaction, and reduce waiting times at the bank.
